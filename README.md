@@ -1,2 +1,8 @@
-# First_code
-My first c++ project
+hello.cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, GitHub!" << endl;
+    return 0;
+}
